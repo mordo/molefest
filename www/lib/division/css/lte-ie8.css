@@ -1,0 +1,9 @@
+a.bk-portfolio-thumb-link,
+a.bk-post-thumb-link {
+	background: transparent url("http://20iwqw32w63u0o6s3ifbiz1u.wpengine.netdna-cdn.com/wp-content/themes/division/css/images/trasparent.png");
+}
+
+img[class*='wp-image-'] {
+	width:auto !important;
+    height:auto !important;
+}
